@@ -23,6 +23,8 @@ public class MaxProfit {
     }
     
     public int maxProfit2(int[] prices) {
+    	return 1;
+    	/*
         if (prices.length <= 1)
             return 0;
         
@@ -49,6 +51,7 @@ public class MaxProfit {
     }
         
         return currMax;
+        */
     }
     
     public static void main(String[] args) {
