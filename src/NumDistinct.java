@@ -28,7 +28,6 @@ public class NumDistinct {
     }
 	
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
 	    NumDistinct n = new NumDistinct();
 	    System.out.println(n.numDistinct("rabbbit", "rabit"));
 	    System.out.println(n.numDistinct("w", "w"));

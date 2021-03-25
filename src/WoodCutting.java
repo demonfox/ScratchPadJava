@@ -1,7 +1,6 @@
 // 给定长度为n的数组，每个元素代表一个木头的长度，木头可以任意截断，从这堆木头中截出至少k个
 // 相同长度为m的木块。已知k，求max(m)
 
-import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.concurrent.ThreadLocalRandom;
 
